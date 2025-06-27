@@ -4,8 +4,10 @@
 
 # Alp Programlama Dili
 
-%100 Türkçe sözdizimli, açık kaynak, Python benzeri yerli programlama dili.
+%100 Türkçe, açık kaynak, Python benzeri yerli programlama dili.
 
-🔗 [Telegram Grubu](https://t.me/+6Upb_D3qQ09lMmFk) • [Projeye Katıl](https://github.com/HsnKrt1997/alp-dili)
+📌 [Telegram Geliştirici Grubu](https://t.me/+6Upb_D3qQ09lMmFk)  
+📚 Belgeler ve örnekler bu repoda:  
+[github.com/HsnKrt1997/Alp-Programalama-Dili-Belgeler](https://github.com/HsnKrt1997/Alp-Programalama-Dili-Belgeler)
 
 ---
